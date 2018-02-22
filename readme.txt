@@ -21,5 +21,4 @@ To Install dependency :
 For Flipkart:
 	Search Product.
 
-
-
+To RUN Use "node scraping.js" command
